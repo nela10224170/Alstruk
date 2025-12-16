@@ -2,7 +2,7 @@
 
 nama = input("Nama kamyu siapa? ")
 
-if nama == "ucup": # kondisi 1
+if nama == "zaky": # kondisi 1
 	print("Hai ganteeeeng beuds!") # aksi true 1
 elif nama == "otong": # kondisi 2
 	print("Hai si kece bangeeeets!!") # aksi true 2
